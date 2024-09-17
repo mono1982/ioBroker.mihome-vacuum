@@ -1,14 +1,14 @@
 {
   "name": "iobroker.mihome-vacuum",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "description": "Control your mihome vacuum cleaner with ioBroker",
   "keywords": [
     "ioBroker",
-    "mihome-vacuum"
+    "mihome-vacuum-ra"
   ],
-  "homepage": "https://github.com/iobroker-community-adapters/ioBroker.mihome-vacuum",
+  "homepage": "https://github.com/mono1982/ioBroker.mihome-vacuum-ra",
   "bugs": {
-    "url": "https://github.com/iobroker-community-adapters/ioBroker.mihome-vacuum/issues"
+    "url": "https://github.com/mono1982/ioBroker.mihome-vacuum-ra/issues"
   },
   "license": "MIT",
   "author": {
@@ -18,7 +18,7 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iobroker-community-adapters/ioBroker.mihome-vacuum"
+    "url": "https://github.com/mono1982/ioBroker.mihome-vacuum-ra"
   },
   "scripts": {
     "test:js": "mocha --config test/mocha.custom.json \"{!(node_modules|test)/**/*.test.js,*.test.js,test/**/test!(PackageFiles|Startup).js}\"",
