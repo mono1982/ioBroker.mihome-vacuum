@@ -68,6 +68,7 @@ const deviceList = {
 	"dreame.vacuum.p2114a": DreameManager, // Xiaomi Robot Vacuum X10 Plus
 	"dreame.vacuum.p2148o": DreameManager, // Xiaomi Mijia Ultra Slim
 	"dreame.vacuum.p2156o": DreameManager, // MOVA Z500
+	"dreame.vacuum.p2150a": DreameManager, // xiamo p2150aa
 };
 
 class MihomeVacuum extends utils.Adapter {
